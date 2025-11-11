@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-    ỨNG DỤNG ĐIỀU KHIỂN MÁY TÍNH TỪ XA (REMOTE CONTROL) 
+    ỨNG DỤNG BÁN HÀNG LAPTOP TRÊN DI ĐỘNG 
 </h2>
 <div align="center">
     <p align="center">
@@ -18,7 +18,6 @@
 [![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
 </div>
-# 💻 ỨNG DỤNG BÁN HÀNG LAPTOP TRÊN DI ĐỘNG 📱  
 
 ## 📖 1. Giới thiệu hệ thống  
 
