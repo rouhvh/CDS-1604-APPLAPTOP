@@ -1,0 +1,1147 @@
+﻿Folder PATH listing for volume Windows 11 
+Volume serial number is D69C-301C
+C:.
+ª   .flutter-plugins
+ª   .flutter-plugins-dependencies
+ª   .gitignore
+ª   .metadata
+ª   analysis_options.yaml
+ª   firebase.json
+ª   lib_tree.txt
+ª   project_tree.txt
+ª   pubspec.lock
+ª   pubspec.yaml
+ª   README.md
+ª   
++---.dart_tool
+ª   ª   package_config.json
+ª   ª   package_graph.json
+ª   ª   version
+ª   ª   
+ª   +---chrome-device
+ª       +---Default
+ª           ª   Account Web Data
+ª           ª   Account Web Data-journal
+ª           ª   Affiliation Database
+ª           ª   Affiliation Database-journal
+ª           ª   BookmarkMergedSurfaceOrdering
+ª           ª   BrowsingTopicsSiteData
+ª           ª   BrowsingTopicsSiteData-journal
+ª           ª   BrowsingTopicsState
+ª           ª   DIPS
+ª           ª   Favicons
+ª           ª   Favicons-journal
+ª           ª   heavy_ad_intervention_opt_out.db
+ª           ª   heavy_ad_intervention_opt_out.db-journal
+ª           ª   History
+ª           ª   History-journal
+ª           ª   LOCK
+ª           ª   LOG
+ª           ª   Login Data
+ª           ª   Login Data For Account
+ª           ª   Login Data For Account-journal
+ª           ª   Login Data-journal
+ª           ª   Network Action Predictor
+ª           ª   Network Action Predictor-journal
+ª           ª   Preferences
+ª           ª   PreferredApps
+ª           ª   README
+ª           ª   Secure Preferences
+ª           ª   ServerCertificate
+ª           ª   ServerCertificate-journal
+ª           ª   SharedStorage
+ª           ª   Shortcuts
+ª           ª   Shortcuts-journal
+ª           ª   Top Sites
+ª           ª   Top Sites-journal
+ª           ª   trusted_vault.pb
+ª           ª   Web Data
+ª           ª   Web Data-journal
+ª           ª   
+ª           +---AutofillStrikeDatabase
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---blob_storage
+ª           ª   +---df5ca40c-2a36-446e-8e9d-ee3d29b02b6d
+ª           +---BudgetDatabase
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---chrome_cart_db
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---ClientCertificates
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---commerce_subscription_db
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---discounts_db
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---discount_infos_db
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---Download Service
+ª           ª   +---EntryDB
+ª           ª   ª       LOCK
+ª           ª   ª       LOG
+ª           ª   ª       
+ª           ª   +---Files
+ª           +---Extension Rules
+ª           ª       000003.log
+ª           ª       CURRENT
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       MANIFEST-000001
+ª           ª       
+ª           +---Extension Scripts
+ª           ª       000003.log
+ª           ª       CURRENT
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       MANIFEST-000001
+ª           ª       
+ª           +---Extension State
+ª           ª       000003.log
+ª           ª       CURRENT
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       MANIFEST-000001
+ª           ª       
+ª           +---Feature Engagement Tracker
+ª           ª   +---AvailabilityDB
+ª           ª   ª       LOCK
+ª           ª   ª       LOG
+ª           ª   ª       
+ª           ª   +---EventDB
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           
+ª           +---GCM Store
+ª           ª   ª   000003.log
+ª           ª   ª   CURRENT
+ª           ª   ª   LOCK
+ª           ª   ª   LOG
+ª           ª   ª   MANIFEST-000001
+ª           ª   ª   
+ª           ª   +---Encryption
+ª           ª           000003.log
+ª           ª           CURRENT
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           MANIFEST-000001
+ª           ª           
+ª           +---IndexedDB
+ª           ª   +---http_localhost_60242.indexeddb.leveldb
+ª           ª           000004.log
+ª           ª           000005.ldb
+ª           ª           CURRENT
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           MANIFEST-000001
+ª           ª           
+ª           +---Local Storage
+ª           ª   +---leveldb
+ª           ª           000003.log
+ª           ª           CURRENT
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           MANIFEST-000001
+ª           ª           
+ª           +---Network
+ª           ª       Cookies
+ª           ª       Cookies-journal
+ª           ª       Network Persistent State
+ª           ª       NetworkDataMigrated
+ª           ª       Reporting and NEL
+ª           ª       Reporting and NEL-journal
+ª           ª       TransportSecurity
+ª           ª       Trust Tokens
+ª           ª       Trust Tokens-journal
+ª           ª       
+ª           +---optimization_guide_hint_cache_store
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---parcel_tracking_db
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---PersistentOriginTrials
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       
+ª           +---Safe Browsing Network
+ª           ª       NetworkDataMigrated
+ª           ª       Safe Browsing Cookies
+ª           ª       Safe Browsing Cookies-journal
+ª           ª       
+ª           +---Segmentation Platform
+ª           ª   +---SegmentInfoDB
+ª           ª   ª       LOCK
+ª           ª   ª       LOG
+ª           ª   ª       
+ª           ª   +---SignalDB
+ª           ª   ª       LOCK
+ª           ª   ª       LOG
+ª           ª   ª       
+ª           ª   +---SignalStorageConfigDB
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           
+ª           +---Service Worker
+ª           ª   +---Database
+ª           ª   ª       000003.log
+ª           ª   ª       CURRENT
+ª           ª   ª       LOCK
+ª           ª   ª       LOG
+ª           ª   ª       MANIFEST-000001
+ª           ª   ª       
+ª           ª   +---ScriptCache
+ª           ª       ª   2cc80dabc69f58b6_0
+ª           ª       ª   4cb013792b196a35_0
+ª           ª       ª   4cb013792b196a35_1
+ª           ª       ª   index
+ª           ª       ª   
+ª           ª       +---index-dir
+ª           ª               the-real-index
+ª           ª               
+ª           +---Session Storage
+ª           ª       000003.log
+ª           ª       CURRENT
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       MANIFEST-000001
+ª           ª       
+ª           +---Sessions
+ª           ª       Session_13405314878464645
+ª           ª       Tabs_13405315075464293
+ª           ª       
+ª           +---Shared Dictionary
+ª           ª   ª   db
+ª           ª   ª   db-journal
+ª           ª   ª   
+ª           ª   +---cache
+ª           ª       ª   index
+ª           ª       ª   
+ª           ª       +---index-dir
+ª           ª               the-real-index
+ª           ª               
+ª           +---shared_proto_db
+ª           ª   ª   000003.log
+ª           ª   ª   CURRENT
+ª           ª   ª   LOCK
+ª           ª   ª   LOG
+ª           ª   ª   MANIFEST-000001
+ª           ª   ª   
+ª           ª   +---metadata
+ª           ª           000003.log
+ª           ª           CURRENT
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           MANIFEST-000001
+ª           ª           
+ª           +---Site Characteristics Database
+ª           ª       000003.log
+ª           ª       CURRENT
+ª           ª       LOCK
+ª           ª       LOG
+ª           ª       MANIFEST-000001
+ª           ª       
+ª           +---Sync Data
+ª           ª   +---LevelDB
+ª           ª           000003.log
+ª           ª           CURRENT
+ª           ª           LOCK
+ª           ª           LOG
+ª           ª           MANIFEST-000001
+ª           ª           
+ª           +---WebStorage
+ª                   QuotaManager
+ª                   QuotaManager-journal
+ª                   
++---.git
+ª   ª   config
+ª   ª   description
+ª   ª   HEAD
+ª   ª   index
+ª   ª   packed-refs
+ª   ª   
+ª   +---hooks
+ª   ª       applypatch-msg.sample
+ª   ª       commit-msg.sample
+ª   ª       fsmonitor-watchman.sample
+ª   ª       post-update.sample
+ª   ª       pre-applypatch.sample
+ª   ª       pre-commit.sample
+ª   ª       pre-merge-commit.sample
+ª   ª       pre-push.sample
+ª   ª       pre-rebase.sample
+ª   ª       pre-receive.sample
+ª   ª       prepare-commit-msg.sample
+ª   ª       push-to-checkout.sample
+ª   ª       sendemail-validate.sample
+ª   ª       update.sample
+ª   ª       
+ª   +---info
+ª   ª       exclude
+ª   ª       
+ª   +---logs
+ª   ª   ª   HEAD
+ª   ª   ª   
+ª   ª   +---refs
+ª   ª       +---heads
+ª   ª       ª       master
+ª   ª       ª       
+ª   ª       +---remotes
+ª   ª           +---origin
+ª   ª                   HEAD
+ª   ª                   
+ª   +---objects
+ª   ª   +---e6
+ª   ª   ª       9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+ª   ª   ª       
+ª   ª   +---info
+ª   ª   +---pack
+ª   ª           pack-665e3f8309f68e27e91fc201216b8fafcbca04d7.idx
+ª   ª           pack-665e3f8309f68e27e91fc201216b8fafcbca04d7.pack
+ª   ª           pack-665e3f8309f68e27e91fc201216b8fafcbca04d7.rev
+ª   ª           
+ª   +---refs
+ª       +---heads
+ª       ª       master
+ª       ª       
+ª       +---remotes
+ª       ª   +---origin
+ª       ª           HEAD
+ª       ª           
+ª       +---tags
++---.idea
+ª   ª   .gitignore
+ª   ª   flutter_laptop_store.iml
+ª   ª   misc.xml
+ª   ª   modules.xml
+ª   ª   vcs.xml
+ª   ª   workspace.xml
+ª   ª   
+ª   +---caches
+ª   ª       deviceStreaming.xml
+ª   ª       
+ª   +---libraries
+ª           Dart_Packages.xml
+ª           Dart_SDK.xml
+ª           Flutter_Plugins.xml
+ª           
++---android
+ª   ª   .gitignore
+ª   ª   build.gradle
+ª   ª   gradle.properties
+ª   ª   gradlew
+ª   ª   gradlew.bat
+ª   ª   local.properties
+ª   ª   settings.gradle
+ª   ª   
+ª   +---.gradle
+ª   ª   ª   file-system.probe
+ª   ª   ª   
+ª   ª   +---8.3
+ª   ª   ª   ª   gc.properties
+ª   ª   ª   ª   
+ª   ª   ª   +---checksums
+ª   ª   ª   ª       checksums.lock
+ª   ª   ª   ª       md5-checksums.bin
+ª   ª   ª   ª       sha1-checksums.bin
+ª   ª   ª   ª       
+ª   ª   ª   +---dependencies-accessors
+ª   ª   ª   ª       dependencies-accessors.lock
+ª   ª   ª   ª       gc.properties
+ª   ª   ª   ª       
+ª   ª   ª   +---executionHistory
+ª   ª   ª   ª       executionHistory.bin
+ª   ª   ª   ª       executionHistory.lock
+ª   ª   ª   ª       
+ª   ª   ª   +---fileChanges
+ª   ª   ª   ª       last-build.bin
+ª   ª   ª   ª       
+ª   ª   ª   +---fileHashes
+ª   ª   ª   ª       fileHashes.bin
+ª   ª   ª   ª       fileHashes.lock
+ª   ª   ª   ª       resourceHashesCache.bin
+ª   ª   ª   ª       
+ª   ª   ª   +---vcsMetadata
+ª   ª   +---buildOutputCleanup
+ª   ª   ª       buildOutputCleanup.lock
+ª   ª   ª       cache.properties
+ª   ª   ª       outputFiles.bin
+ª   ª   ª       
+ª   ª   +---kotlin
+ª   ª   ª   +---errors
+ª   ª   ª   ª       errors-1741279314223.log
+ª   ª   ª   ª       
+ª   ª   ª   +---sessions
+ª   ª   +---vcs-1
+ª   ª           gc.properties
+ª   ª           
+ª   +---app
+ª   ª   ª   build.gradle
+ª   ª   ª   google-services.json
+ª   ª   ª   
+ª   ª   +---.cxx
+ª   ª   ª   +---Debug
+ª   ª   ª       +---4e4y6v1i
+ª   ª   ª       ª   ª   hash_key.txt
+ª   ª   ª       ª   ª   
+ª   ª   ª       ª   +---arm64-v8a
+ª   ª   ª       ª   ª   ª   additional_project_files.txt
+ª   ª   ª       ª   ª   ª   android_gradle_build.json
+ª   ª   ª       ª   ª   ª   android_gradle_build_mini.json
+ª   ª   ª       ª   ª   ª   build.ninja
+ª   ª   ª       ª   ª   ª   build_file_index.txt
+ª   ª   ª       ª   ª   ª   CMakeCache.txt
+ª   ª   ª       ª   ª   ª   cmake_install.cmake
+ª   ª   ª       ª   ª   ª   configure_fingerprint.bin
+ª   ª   ª       ª   ª   ª   metadata_generation_command.txt
+ª   ª   ª       ª   ª   ª   prefab_config.json
+ª   ª   ª       ª   ª   ª   symbol_folder_index.txt
+ª   ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª   +---.cmake
+ª   ª   ª       ª   ª   ª   +---api
+ª   ª   ª       ª   ª   ª       +---v1
+ª   ª   ª       ª   ª   ª           +---query
+ª   ª   ª       ª   ª   ª           ª   +---client-agp
+ª   ª   ª       ª   ª   ª           +---reply
+ª   ª   ª       ª   ª   ª                   cache-v2-a15b783b85fbcdd7f9ee.json
+ª   ª   ª       ª   ª   ª                   cmakeFiles-v1-b3db162d747ebdfb366a.json
+ª   ª   ª       ª   ª   ª                   codemodel-v2-594c6b27a49eb87ae101.json
+ª   ª   ª       ª   ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª       ª   ª   ª                   index-2025-03-01T08-31-19-0217.json
+ª   ª   ª       ª   ª   ª                   
+ª   ª   ª       ª   ª   +---CMakeFiles
+ª   ª   ª       ª   ª       ª   cmake.check_cache
+ª   ª   ª       ª   ª       ª   CMakeOutput.log
+ª   ª   ª       ª   ª       ª   rules.ninja
+ª   ª   ª       ª   ª       ª   TargetDirectories.txt
+ª   ª   ª       ª   ª       ª   
+ª   ª   ª       ª   ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª       ª   ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª       ª   ª       ª   ª   
+ª   ª   ª       ª   ª       ª   +---CompilerIdC
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª       ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª       ª   ª   +---tmp
+ª   ª   ª       ª   ª       ª   +---CompilerIdCXX
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª       ª   ª       ª       ª   
+ª   ª   ª       ª   ª       ª       +---tmp
+ª   ª   ª       ª   ª       +---CMakeTmp
+ª   ª   ª       ª   +---armeabi-v7a
+ª   ª   ª       ª   ª   ª   additional_project_files.txt
+ª   ª   ª       ª   ª   ª   android_gradle_build.json
+ª   ª   ª       ª   ª   ª   android_gradle_build_mini.json
+ª   ª   ª       ª   ª   ª   build.ninja
+ª   ª   ª       ª   ª   ª   build_file_index.txt
+ª   ª   ª       ª   ª   ª   CMakeCache.txt
+ª   ª   ª       ª   ª   ª   cmake_install.cmake
+ª   ª   ª       ª   ª   ª   configure_fingerprint.bin
+ª   ª   ª       ª   ª   ª   metadata_generation_command.txt
+ª   ª   ª       ª   ª   ª   prefab_config.json
+ª   ª   ª       ª   ª   ª   symbol_folder_index.txt
+ª   ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª   +---.cmake
+ª   ª   ª       ª   ª   ª   +---api
+ª   ª   ª       ª   ª   ª       +---v1
+ª   ª   ª       ª   ª   ª           +---query
+ª   ª   ª       ª   ª   ª           ª   +---client-agp
+ª   ª   ª       ª   ª   ª           +---reply
+ª   ª   ª       ª   ª   ª                   cache-v2-22f58f5fbdb3b9c7fab0.json
+ª   ª   ª       ª   ª   ª                   cmakeFiles-v1-b5bfc32e3d1250a7da55.json
+ª   ª   ª       ª   ª   ª                   codemodel-v2-811e9fbc806ae483f460.json
+ª   ª   ª       ª   ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª       ª   ª   ª                   index-2025-03-01T08-31-51-0931.json
+ª   ª   ª       ª   ª   ª                   
+ª   ª   ª       ª   ª   +---CMakeFiles
+ª   ª   ª       ª   ª       ª   cmake.check_cache
+ª   ª   ª       ª   ª       ª   CMakeOutput.log
+ª   ª   ª       ª   ª       ª   rules.ninja
+ª   ª   ª       ª   ª       ª   TargetDirectories.txt
+ª   ª   ª       ª   ª       ª   
+ª   ª   ª       ª   ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª       ª   ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª       ª   ª       ª   ª   
+ª   ª   ª       ª   ª       ª   +---CompilerIdC
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª       ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª       ª   ª   +---tmp
+ª   ª   ª       ª   ª       ª   +---CompilerIdCXX
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª       ª   ª       ª       ª   
+ª   ª   ª       ª   ª       ª       +---tmp
+ª   ª   ª       ª   ª       +---CMakeTmp
+ª   ª   ª       ª   +---x86
+ª   ª   ª       ª   ª   ª   additional_project_files.txt
+ª   ª   ª       ª   ª   ª   android_gradle_build.json
+ª   ª   ª       ª   ª   ª   android_gradle_build_mini.json
+ª   ª   ª       ª   ª   ª   build.ninja
+ª   ª   ª       ª   ª   ª   build_file_index.txt
+ª   ª   ª       ª   ª   ª   CMakeCache.txt
+ª   ª   ª       ª   ª   ª   cmake_install.cmake
+ª   ª   ª       ª   ª   ª   configure_fingerprint.bin
+ª   ª   ª       ª   ª   ª   metadata_generation_command.txt
+ª   ª   ª       ª   ª   ª   prefab_config.json
+ª   ª   ª       ª   ª   ª   symbol_folder_index.txt
+ª   ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª   +---.cmake
+ª   ª   ª       ª   ª   ª   +---api
+ª   ª   ª       ª   ª   ª       +---v1
+ª   ª   ª       ª   ª   ª           +---query
+ª   ª   ª       ª   ª   ª           ª   +---client-agp
+ª   ª   ª       ª   ª   ª           +---reply
+ª   ª   ª       ª   ª   ª                   cache-v2-020cf9a6b030528f8569.json
+ª   ª   ª       ª   ª   ª                   cmakeFiles-v1-3d2db9baee1d09e71e84.json
+ª   ª   ª       ª   ª   ª                   codemodel-v2-d507b53deb4d9f06245a.json
+ª   ª   ª       ª   ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª       ª   ª   ª                   index-2025-03-01T08-31-54-0395.json
+ª   ª   ª       ª   ª   ª                   
+ª   ª   ª       ª   ª   +---CMakeFiles
+ª   ª   ª       ª   ª       ª   cmake.check_cache
+ª   ª   ª       ª   ª       ª   CMakeOutput.log
+ª   ª   ª       ª   ª       ª   rules.ninja
+ª   ª   ª       ª   ª       ª   TargetDirectories.txt
+ª   ª   ª       ª   ª       ª   
+ª   ª   ª       ª   ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª       ª   ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª       ª   ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª       ª   ª       ª   ª   
+ª   ª   ª       ª   ª       ª   +---CompilerIdC
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª       ª   ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª       ª   ª       ª   ª   ª   
+ª   ª   ª       ª   ª       ª   ª   +---tmp
+ª   ª   ª       ª   ª       ª   +---CompilerIdCXX
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª       ª   ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª       ª   ª       ª       ª   
+ª   ª   ª       ª   ª       ª       +---tmp
+ª   ª   ª       ª   ª       +---CMakeTmp
+ª   ª   ª       ª   +---x86_64
+ª   ª   ª       ª       ª   additional_project_files.txt
+ª   ª   ª       ª       ª   android_gradle_build.json
+ª   ª   ª       ª       ª   android_gradle_build_mini.json
+ª   ª   ª       ª       ª   build.ninja
+ª   ª   ª       ª       ª   build_file_index.txt
+ª   ª   ª       ª       ª   CMakeCache.txt
+ª   ª   ª       ª       ª   cmake_install.cmake
+ª   ª   ª       ª       ª   configure_fingerprint.bin
+ª   ª   ª       ª       ª   metadata_generation_command.txt
+ª   ª   ª       ª       ª   prefab_config.json
+ª   ª   ª       ª       ª   symbol_folder_index.txt
+ª   ª   ª       ª       ª   
+ª   ª   ª       ª       +---.cmake
+ª   ª   ª       ª       ª   +---api
+ª   ª   ª       ª       ª       +---v1
+ª   ª   ª       ª       ª           +---query
+ª   ª   ª       ª       ª           ª   +---client-agp
+ª   ª   ª       ª       ª           +---reply
+ª   ª   ª       ª       ª                   cache-v2-f7b83dddfa1b73fbcb50.json
+ª   ª   ª       ª       ª                   cmakeFiles-v1-5248073c791035254128.json
+ª   ª   ª       ª       ª                   codemodel-v2-ce847e3c667863ce478b.json
+ª   ª   ª       ª       ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª       ª       ª                   index-2025-03-01T08-31-56-0748.json
+ª   ª   ª       ª       ª                   
+ª   ª   ª       ª       +---CMakeFiles
+ª   ª   ª       ª           ª   cmake.check_cache
+ª   ª   ª       ª           ª   CMakeOutput.log
+ª   ª   ª       ª           ª   rules.ninja
+ª   ª   ª       ª           ª   TargetDirectories.txt
+ª   ª   ª       ª           ª   
+ª   ª   ª       ª           +---3.22.1-g37088a8-dirty
+ª   ª   ª       ª           ª   ª   CMakeCCompiler.cmake
+ª   ª   ª       ª           ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª       ª           ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª       ª           ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª       ª           ª   ª   CMakeSystem.cmake
+ª   ª   ª       ª           ª   ª   
+ª   ª   ª       ª           ª   +---CompilerIdC
+ª   ª   ª       ª           ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª       ª           ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª       ª           ª   ª   ª   
+ª   ª   ª       ª           ª   ª   +---tmp
+ª   ª   ª       ª           ª   +---CompilerIdCXX
+ª   ª   ª       ª           ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª       ª           ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª       ª           ª       ª   
+ª   ª   ª       ª           ª       +---tmp
+ª   ª   ª       ª           +---CMakeTmp
+ª   ª   ª       +---5v193l6f
+ª   ª   ª           ª   hash_key.txt
+ª   ª   ª           ª   
+ª   ª   ª           +---arm64-v8a
+ª   ª   ª           ª   ª   additional_project_files.txt
+ª   ª   ª           ª   ª   android_gradle_build.json
+ª   ª   ª           ª   ª   android_gradle_build_mini.json
+ª   ª   ª           ª   ª   build.ninja
+ª   ª   ª           ª   ª   build_file_index.txt
+ª   ª   ª           ª   ª   CMakeCache.txt
+ª   ª   ª           ª   ª   cmake_install.cmake
+ª   ª   ª           ª   ª   configure_fingerprint.bin
+ª   ª   ª           ª   ª   metadata_generation_command.txt
+ª   ª   ª           ª   ª   prefab_config.json
+ª   ª   ª           ª   ª   symbol_folder_index.txt
+ª   ª   ª           ª   ª   
+ª   ª   ª           ª   +---.cmake
+ª   ª   ª           ª   ª   +---api
+ª   ª   ª           ª   ª       +---v1
+ª   ª   ª           ª   ª           +---query
+ª   ª   ª           ª   ª           ª   +---client-agp
+ª   ª   ª           ª   ª           ª           cache-v2
+ª   ª   ª           ª   ª           ª           cmakeFiles-v1
+ª   ª   ª           ª   ª           ª           codemodel-v2
+ª   ª   ª           ª   ª           ª           
+ª   ª   ª           ª   ª           +---reply
+ª   ª   ª           ª   ª                   cache-v2-cca40192a55dcb21d71a.json
+ª   ª   ª           ª   ª                   cmakeFiles-v1-c251be13793954c802e4.json
+ª   ª   ª           ª   ª                   codemodel-v2-da5d7cabb923cca24f3b.json
+ª   ª   ª           ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª           ª   ª                   index-2025-03-06T16-43-55-0038.json
+ª   ª   ª           ª   ª                   
+ª   ª   ª           ª   +---CMakeFiles
+ª   ª   ª           ª       ª   cmake.check_cache
+ª   ª   ª           ª       ª   CMakeOutput.log
+ª   ª   ª           ª       ª   rules.ninja
+ª   ª   ª           ª       ª   TargetDirectories.txt
+ª   ª   ª           ª       ª   
+ª   ª   ª           ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª           ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª           ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª           ª       ª   ª   
+ª   ª   ª           ª       ª   +---CompilerIdC
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª           ª       ª   ª   ª   
+ª   ª   ª           ª       ª   ª   +---tmp
+ª   ª   ª           ª       ª   +---CompilerIdCXX
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª           ª       ª       ª   
+ª   ª   ª           ª       ª       +---tmp
+ª   ª   ª           ª       +---CMakeTmp
+ª   ª   ª           +---armeabi-v7a
+ª   ª   ª           ª   ª   additional_project_files.txt
+ª   ª   ª           ª   ª   android_gradle_build.json
+ª   ª   ª           ª   ª   android_gradle_build_mini.json
+ª   ª   ª           ª   ª   build.ninja
+ª   ª   ª           ª   ª   build_file_index.txt
+ª   ª   ª           ª   ª   CMakeCache.txt
+ª   ª   ª           ª   ª   cmake_install.cmake
+ª   ª   ª           ª   ª   configure_fingerprint.bin
+ª   ª   ª           ª   ª   metadata_generation_command.txt
+ª   ª   ª           ª   ª   prefab_config.json
+ª   ª   ª           ª   ª   symbol_folder_index.txt
+ª   ª   ª           ª   ª   
+ª   ª   ª           ª   +---.cmake
+ª   ª   ª           ª   ª   +---api
+ª   ª   ª           ª   ª       +---v1
+ª   ª   ª           ª   ª           +---query
+ª   ª   ª           ª   ª           ª   +---client-agp
+ª   ª   ª           ª   ª           ª           cache-v2
+ª   ª   ª           ª   ª           ª           cmakeFiles-v1
+ª   ª   ª           ª   ª           ª           codemodel-v2
+ª   ª   ª           ª   ª           ª           
+ª   ª   ª           ª   ª           +---reply
+ª   ª   ª           ª   ª                   cache-v2-d0f902f66c458fb7ae06.json
+ª   ª   ª           ª   ª                   cmakeFiles-v1-28e70d121b294c5bd3a7.json
+ª   ª   ª           ª   ª                   codemodel-v2-6790c156774a3dd0c0f6.json
+ª   ª   ª           ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª           ª   ª                   index-2025-03-06T16-45-00-0420.json
+ª   ª   ª           ª   ª                   
+ª   ª   ª           ª   +---CMakeFiles
+ª   ª   ª           ª       ª   cmake.check_cache
+ª   ª   ª           ª       ª   CMakeOutput.log
+ª   ª   ª           ª       ª   rules.ninja
+ª   ª   ª           ª       ª   TargetDirectories.txt
+ª   ª   ª           ª       ª   
+ª   ª   ª           ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª           ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª           ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª           ª       ª   ª   
+ª   ª   ª           ª       ª   +---CompilerIdC
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª           ª       ª   ª   ª   
+ª   ª   ª           ª       ª   ª   +---tmp
+ª   ª   ª           ª       ª   +---CompilerIdCXX
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª           ª       ª       ª   
+ª   ª   ª           ª       ª       +---tmp
+ª   ª   ª           ª       +---CMakeTmp
+ª   ª   ª           +---x86
+ª   ª   ª           ª   ª   additional_project_files.txt
+ª   ª   ª           ª   ª   android_gradle_build.json
+ª   ª   ª           ª   ª   android_gradle_build_mini.json
+ª   ª   ª           ª   ª   build.ninja
+ª   ª   ª           ª   ª   build_file_index.txt
+ª   ª   ª           ª   ª   CMakeCache.txt
+ª   ª   ª           ª   ª   cmake_install.cmake
+ª   ª   ª           ª   ª   configure_fingerprint.bin
+ª   ª   ª           ª   ª   metadata_generation_command.txt
+ª   ª   ª           ª   ª   prefab_config.json
+ª   ª   ª           ª   ª   symbol_folder_index.txt
+ª   ª   ª           ª   ª   
+ª   ª   ª           ª   +---.cmake
+ª   ª   ª           ª   ª   +---api
+ª   ª   ª           ª   ª       +---v1
+ª   ª   ª           ª   ª           +---query
+ª   ª   ª           ª   ª           ª   +---client-agp
+ª   ª   ª           ª   ª           ª           cache-v2
+ª   ª   ª           ª   ª           ª           cmakeFiles-v1
+ª   ª   ª           ª   ª           ª           codemodel-v2
+ª   ª   ª           ª   ª           ª           
+ª   ª   ª           ª   ª           +---reply
+ª   ª   ª           ª   ª                   cache-v2-765e0992af23be46f9de.json
+ª   ª   ª           ª   ª                   cmakeFiles-v1-a44e0706c8fcb1dad407.json
+ª   ª   ª           ª   ª                   codemodel-v2-ef977890ce086219d68a.json
+ª   ª   ª           ª   ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª           ª   ª                   index-2025-03-06T16-45-04-0357.json
+ª   ª   ª           ª   ª                   
+ª   ª   ª           ª   +---CMakeFiles
+ª   ª   ª           ª       ª   cmake.check_cache
+ª   ª   ª           ª       ª   CMakeOutput.log
+ª   ª   ª           ª       ª   rules.ninja
+ª   ª   ª           ª       ª   TargetDirectories.txt
+ª   ª   ª           ª       ª   
+ª   ª   ª           ª       +---3.22.1-g37088a8-dirty
+ª   ª   ª           ª       ª   ª   CMakeCCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª           ª       ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª           ª       ª   ª   CMakeSystem.cmake
+ª   ª   ª           ª       ª   ª   
+ª   ª   ª           ª       ª   +---CompilerIdC
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª           ª       ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª           ª       ª   ª   ª   
+ª   ª   ª           ª       ª   ª   +---tmp
+ª   ª   ª           ª       ª   +---CompilerIdCXX
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª           ª       ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª           ª       ª       ª   
+ª   ª   ª           ª       ª       +---tmp
+ª   ª   ª           ª       +---CMakeTmp
+ª   ª   ª           +---x86_64
+ª   ª   ª               ª   additional_project_files.txt
+ª   ª   ª               ª   android_gradle_build.json
+ª   ª   ª               ª   android_gradle_build_mini.json
+ª   ª   ª               ª   build.ninja
+ª   ª   ª               ª   build_file_index.txt
+ª   ª   ª               ª   CMakeCache.txt
+ª   ª   ª               ª   cmake_install.cmake
+ª   ª   ª               ª   configure_fingerprint.bin
+ª   ª   ª               ª   metadata_generation_command.txt
+ª   ª   ª               ª   prefab_config.json
+ª   ª   ª               ª   symbol_folder_index.txt
+ª   ª   ª               ª   
+ª   ª   ª               +---.cmake
+ª   ª   ª               ª   +---api
+ª   ª   ª               ª       +---v1
+ª   ª   ª               ª           +---query
+ª   ª   ª               ª           ª   +---client-agp
+ª   ª   ª               ª           ª           cache-v2
+ª   ª   ª               ª           ª           cmakeFiles-v1
+ª   ª   ª               ª           ª           codemodel-v2
+ª   ª   ª               ª           ª           
+ª   ª   ª               ª           +---reply
+ª   ª   ª               ª                   cache-v2-b5f09ad0e31e4c453825.json
+ª   ª   ª               ª                   cmakeFiles-v1-b20e198c4ff3a013a7b9.json
+ª   ª   ª               ª                   codemodel-v2-6c1c3d22ed62d4607086.json
+ª   ª   ª               ª                   directory-.-Debug-d0094a50bb2071803777.json
+ª   ª   ª               ª                   index-2025-03-06T16-45-06-0416.json
+ª   ª   ª               ª                   
+ª   ª   ª               +---CMakeFiles
+ª   ª   ª                   ª   cmake.check_cache
+ª   ª   ª                   ª   CMakeOutput.log
+ª   ª   ª                   ª   rules.ninja
+ª   ª   ª                   ª   TargetDirectories.txt
+ª   ª   ª                   ª   
+ª   ª   ª                   +---3.22.1-g37088a8-dirty
+ª   ª   ª                   ª   ª   CMakeCCompiler.cmake
+ª   ª   ª                   ª   ª   CMakeCXXCompiler.cmake
+ª   ª   ª                   ª   ª   CMakeDetermineCompilerABI_C.bin
+ª   ª   ª                   ª   ª   CMakeDetermineCompilerABI_CXX.bin
+ª   ª   ª                   ª   ª   CMakeSystem.cmake
+ª   ª   ª                   ª   ª   
+ª   ª   ª                   ª   +---CompilerIdC
+ª   ª   ª                   ª   ª   ª   CMakeCCompilerId.c
+ª   ª   ª                   ª   ª   ª   CMakeCCompilerId.o
+ª   ª   ª                   ª   ª   ª   
+ª   ª   ª                   ª   ª   +---tmp
+ª   ª   ª                   ª   +---CompilerIdCXX
+ª   ª   ª                   ª       ª   CMakeCXXCompilerId.cpp
+ª   ª   ª                   ª       ª   CMakeCXXCompilerId.o
+ª   ª   ª                   ª       ª   
+ª   ª   ª                   ª       +---tmp
+ª   ª   ª                   +---CMakeTmp
+ª   ª   +---src
+ª   ª       +---debug
+ª   ª       ª       AndroidManifest.xml
+ª   ª       ª       
+ª   ª       +---main
+ª   ª       ª   ª   AndroidManifest.xml
+ª   ª       ª   ª   
+ª   ª       ª   +---java
+ª   ª       ª   ª   +---io
+ª   ª       ª   ª       +---flutter
+ª   ª       ª   ª           +---plugins
+ª   ª       ª   ª                   GeneratedPluginRegistrant.java
+ª   ª       ª   ª                   
+ª   ª       ª   +---kotlin
+ª   ª       ª   ª   +---com
+ª   ª       ª   ª       +---example
+ª   ª       ª   ª           +---flutter_application_1
+ª   ª       ª   ª                   MainActivity.kt
+ª   ª       ª   ª                   
+ª   ª       ª   +---res
+ª   ª       ª       +---drawable
+ª   ª       ª       ª       launch_background.xml
+ª   ª       ª       ª       
+ª   ª       ª       +---drawable-v21
+ª   ª       ª       ª       launch_background.xml
+ª   ª       ª       ª       
+ª   ª       ª       +---mipmap-hdpi
+ª   ª       ª       ª       ic_launcher.png
+ª   ª       ª       ª       
+ª   ª       ª       +---mipmap-mdpi
+ª   ª       ª       ª       ic_launcher.png
+ª   ª       ª       ª       
+ª   ª       ª       +---mipmap-xhdpi
+ª   ª       ª       ª       ic_launcher.png
+ª   ª       ª       ª       
+ª   ª       ª       +---mipmap-xxhdpi
+ª   ª       ª       ª       ic_launcher.png
+ª   ª       ª       ª       
+ª   ª       ª       +---mipmap-xxxhdpi
+ª   ª       ª       ª       ic_launcher.png
+ª   ª       ª       ª       
+ª   ª       ª       +---values
+ª   ª       ª       ª       styles.xml
+ª   ª       ª       ª       
+ª   ª       ª       +---values-night
+ª   ª       ª               styles.xml
+ª   ª       ª               
+ª   ª       +---profile
+ª   ª               AndroidManifest.xml
+ª   ª               
+ª   +---gradle
+ª       +---wrapper
+ª               gradle-wrapper.jar
+ª               gradle-wrapper.properties
+ª               
++---assets
+ª   +---images
+ª           Acer_Swift_3.png
+ª           ASUS_ZenBook_14.png
+ª           banner-1.png
+ª           banner-2.jpg
+ª           banner-3.jpg
+ª           empty_cart.svg
+ª           favourite_item.svg
+ª           hp_spectre.png
+ª           lenovo_thinkPad_X1_carbon.png
+ª           LG_Gram_17.png
+ª           macbook_pro_14.png
+ª           Microsoft_Surface_Laptop_4.png
+ª           notebook_xps.png
+ª           onBoarding-1.svg
+ª           onBoarding-2.svg
+ª           onBoarding-3.svg
+ª           Razer_Blade_15.png
+ª           Samsung_Galaxy_Book_Pro.png
+ª           
++---build
+ª   ª   f61019181a390ebae04f980d79c3991a.cache.dill.track.dill
+ª   ª   
+ª   +---2a14fa468c48cf51711892c8280afd38
+ª   ª       gen_dart_plugin_registrant.stamp
+ª   ª       gen_localizations.stamp
+ª   ª       _composite.stamp
+ª   ª       
+ª   +---flutter_assets
+ª       ª   AssetManifest.bin
+ª       ª   AssetManifest.bin.json
+ª       ª   AssetManifest.json
+ª       ª   FontManifest.json
+ª       ª   NOTICES
+ª       ª   
+ª       +---assets
+ª       ª   +---images
+ª       ª           Acer_Swift_3.png
+ª       ª           ASUS_ZenBook_14.png
+ª       ª           banner-1.png
+ª       ª           banner-2.jpg
+ª       ª           banner-3.jpg
+ª       ª           empty_cart.svg
+ª       ª           favourite_item.svg
+ª       ª           hp_spectre.png
+ª       ª           lenovo_thinkPad_X1_carbon.png
+ª       ª           LG_Gram_17.png
+ª       ª           macbook_pro_14.png
+ª       ª           Microsoft_Surface_Laptop_4.png
+ª       ª           notebook_xps.png
+ª       ª           onBoarding-1.svg
+ª       ª           onBoarding-2.svg
+ª       ª           onBoarding-3.svg
+ª       ª           Razer_Blade_15.png
+ª       ª           Samsung_Galaxy_Book_Pro.png
+ª       ª           
+ª       +---fonts
+ª       ª       MaterialIcons-Regular.otf
+ª       ª       
+ª       +---packages
+ª       ª   +---cupertino_icons
+ª       ª       +---assets
+ª       ª               CupertinoIcons.ttf
+ª       ª               
+ª       +---shaders
+ª               ink_sparkle.frag
+ª               
++---ios
+ª   ª   .gitignore
+ª   ª   
+ª   +---Flutter
+ª   ª   ª   AppFrameworkInfo.plist
+ª   ª   ª   Debug.xcconfig
+ª   ª   ª   flutter_export_environment.sh
+ª   ª   ª   Generated.xcconfig
+ª   ª   ª   Release.xcconfig
+ª   ª   ª   
+ª   ª   +---ephemeral
+ª   ª           flutter_lldbinit
+ª   ª           flutter_lldb_helper.py
+ª   ª           
+ª   +---Runner
+ª   ª   ª   AppDelegate.swift
+ª   ª   ª   GeneratedPluginRegistrant.h
+ª   ª   ª   GeneratedPluginRegistrant.m
+ª   ª   ª   Info.plist
+ª   ª   ª   Runner-Bridging-Header.h
+ª   ª   ª   
+ª   ª   +---Assets.xcassets
+ª   ª   ª   +---AppIcon.appiconset
+ª   ª   ª   ª       Contents.json
+ª   ª   ª   ª       Icon-App-1024x1024@1x.png
+ª   ª   ª   ª       Icon-App-20x20@1x.png
+ª   ª   ª   ª       Icon-App-20x20@2x.png
+ª   ª   ª   ª       Icon-App-20x20@3x.png
+ª   ª   ª   ª       Icon-App-29x29@1x.png
+ª   ª   ª   ª       Icon-App-29x29@2x.png
+ª   ª   ª   ª       Icon-App-29x29@3x.png
+ª   ª   ª   ª       Icon-App-40x40@1x.png
+ª   ª   ª   ª       Icon-App-40x40@2x.png
+ª   ª   ª   ª       Icon-App-40x40@3x.png
+ª   ª   ª   ª       Icon-App-60x60@2x.png
+ª   ª   ª   ª       Icon-App-60x60@3x.png
+ª   ª   ª   ª       Icon-App-76x76@1x.png
+ª   ª   ª   ª       Icon-App-76x76@2x.png
+ª   ª   ª   ª       Icon-App-83.5x83.5@2x.png
+ª   ª   ª   ª       
+ª   ª   ª   +---LaunchImage.imageset
+ª   ª   ª           Contents.json
+ª   ª   ª           LaunchImage.png
+ª   ª   ª           LaunchImage@2x.png
+ª   ª   ª           LaunchImage@3x.png
+ª   ª   ª           README.md
+ª   ª   ª           
+ª   ª   +---Base.lproj
+ª   ª           LaunchScreen.storyboard
+ª   ª           Main.storyboard
+ª   ª           
+ª   +---Runner.xcodeproj
+ª   ª   ª   project.pbxproj
+ª   ª   ª   
+ª   ª   +---project.xcworkspace
+ª   ª   ª   ª   contents.xcworkspacedata
+ª   ª   ª   ª   
+ª   ª   ª   +---xcshareddata
+ª   ª   ª           IDEWorkspaceChecks.plist
+ª   ª   ª           WorkspaceSettings.xcsettings
+ª   ª   ª           
+ª   ª   +---xcshareddata
+ª   ª       +---xcschemes
+ª   ª               Runner.xcscheme
+ª   ª               
+ª   +---Runner.xcworkspace
+ª   ª   ª   contents.xcworkspacedata
+ª   ª   ª   
+ª   ª   +---xcshareddata
+ª   ª           IDEWorkspaceChecks.plist
+ª   ª           WorkspaceSettings.xcsettings
+ª   ª           
+ª   +---RunnerTests
+ª           RunnerTests.swift
+ª           
++---lib
+    ª   firebase_options.dart
+    ª   main.dart
+    ª   
+    +---components
+    ª       custome_btn.dart
+    ª       no_data.dart
+    ª       
+    +---config
+    ª   +---translations
+    ª       ª   localization_service.dart
+    ª       ª   strings_enum.dart
+    ª       ª   
+    ª       +---ar_AR
+    ª       ª       ar_ar_translation.dart
+    ª       ª       
+    ª       +---en_US
+    ª               en_us_translation.dart
+    ª               
+    +---data
+    ª   +---local
+    ª   ª       app_shared_pref.dart
+    ª   ª       
+    ª   +---model
+    ª           laptop.dart
+    ª           
+    +---modules
+    ª   +---base
+    ª   ª   +---bindings
+    ª   ª   ª       base_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controllers
+    ª   ª   ª       base_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª           base_view.dart
+    ª   ª           
+    ª   +---cart
+    ª   ª   +---bindings
+    ª   ª   ª       cart_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controllers
+    ª   ª   ª       cart_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª       ª   cart_view.dart
+    ª   ª       ª   
+    ª   ª       +---widget
+    ª   ª               cart_item.dart
+    ª   ª               
+    ª   +---details
+    ª   ª   +---bindings
+    ª   ª   ª       details_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controllers
+    ª   ª   ª       details_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª           details_view.dart
+    ª   ª           
+    ª   +---favorites
+    ª   ª   +---bindings
+    ª   ª   ª       favorite_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controllers
+    ª   ª   ª       favorite_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª       ª   favorites_view.dart
+    ª   ª       ª   
+    ª   ª       +---widget
+    ª   ª               favourite_item.dart
+    ª   ª               
+    ª   +---home
+    ª   ª   +---bindings
+    ª   ª   ª       home_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controllers
+    ª   ª   ª       cart_controller.dart
+    ª   ª   ª       home_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª       ª   home_view.dart
+    ª   ª       ª   
+    ª   ª       +---widget
+    ª   ª               banner_section.dart
+    ª   ª               laptop_item.dart
+    ª   ª               
+    ª   +---onboarding
+    ª   ª   +---bindings
+    ª   ª   ª       on_boarding_binding.dart
+    ª   ª   ª       
+    ª   ª   +---controller
+    ª   ª   ª       on_boarding_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª       ª   on_boarding_view.dart
+    ª   ª       ª   
+    ª   ª       +---model
+    ª   ª       ª       on_boarding_item.dart
+    ª   ª       ª       
+    ª   ª       +---widget
+    ª   ª               custome_boarding_item.dart
+    ª   ª               
+    ª   +---settings
+    ª   ª   +---bindings
+    ª   ª   ª       settings_bindings.dart
+    ª   ª   ª       
+    ª   ª   +---controller
+    ª   ª   ª       settings_controller.dart
+    ª   ª   ª       
+    ª   ª   +---view
+    ª   ª           language_item.dart
+    ª   ª           settings_view.dart
+    ª   ª           
+    ª   +---splash
+    ª       +---bindings
+    ª       ª       splash_bindings.dart
+    ª       ª       
+    ª       +---controllers
+    ª       ª       splash_controller.dart
+    ª       ª       
+    ª       +---view
+    ª               splash_view.dart
+    ª               
+    +---routes
+    ª       app_pages.dart
+    ª       app_routes.dart
+    ª       
+    +---screens
+    +---utils
+    ª       dummy_data.dart
+    ª       
+    +---widgets
+        +---auth
+                login_screen.dart
+                register_screen.dart
+                

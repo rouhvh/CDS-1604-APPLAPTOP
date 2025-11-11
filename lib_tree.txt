@@ -1,0 +1,142 @@
+﻿Folder PATH listing for volume Windows 11 
+Volume serial number is D69C-301C
+C:\USERS\ADMIN\FLUTTER_LAPTOP_STORE\LIB
+ª   firebase_options.dart
+ª   main.dart
+ª   
++---components
+ª       custome_btn.dart
+ª       no_data.dart
+ª       
++---config
+ª   +---translations
+ª       ª   localization_service.dart
+ª       ª   strings_enum.dart
+ª       ª   
+ª       +---ar_AR
+ª       ª       ar_ar_translation.dart
+ª       ª       
+ª       +---en_US
+ª               en_us_translation.dart
+ª               
++---data
+ª   +---local
+ª   ª       app_shared_pref.dart
+ª   ª       
+ª   +---model
+ª           laptop.dart
+ª           
++---modules
+ª   +---base
+ª   ª   +---bindings
+ª   ª   ª       base_bindings.dart
+ª   ª   ª       
+ª   ª   +---controllers
+ª   ª   ª       base_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª           base_view.dart
+ª   ª           
+ª   +---cart
+ª   ª   +---bindings
+ª   ª   ª       cart_bindings.dart
+ª   ª   ª       
+ª   ª   +---controllers
+ª   ª   ª       cart_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª       ª   cart_view.dart
+ª   ª       ª   
+ª   ª       +---widget
+ª   ª               cart_item.dart
+ª   ª               
+ª   +---details
+ª   ª   +---bindings
+ª   ª   ª       details_bindings.dart
+ª   ª   ª       
+ª   ª   +---controllers
+ª   ª   ª       details_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª           details_view.dart
+ª   ª           
+ª   +---favorites
+ª   ª   +---bindings
+ª   ª   ª       favorite_bindings.dart
+ª   ª   ª       
+ª   ª   +---controllers
+ª   ª   ª       favorite_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª       ª   favorites_view.dart
+ª   ª       ª   
+ª   ª       +---widget
+ª   ª               favourite_item.dart
+ª   ª               
+ª   +---home
+ª   ª   +---bindings
+ª   ª   ª       home_bindings.dart
+ª   ª   ª       
+ª   ª   +---controllers
+ª   ª   ª       cart_controller.dart
+ª   ª   ª       home_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª       ª   home_view.dart
+ª   ª       ª   
+ª   ª       +---widget
+ª   ª               banner_section.dart
+ª   ª               laptop_item.dart
+ª   ª               
+ª   +---onboarding
+ª   ª   +---bindings
+ª   ª   ª       on_boarding_binding.dart
+ª   ª   ª       
+ª   ª   +---controller
+ª   ª   ª       on_boarding_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª       ª   on_boarding_view.dart
+ª   ª       ª   
+ª   ª       +---model
+ª   ª       ª       on_boarding_item.dart
+ª   ª       ª       
+ª   ª       +---widget
+ª   ª               custome_boarding_item.dart
+ª   ª               
+ª   +---settings
+ª   ª   +---bindings
+ª   ª   ª       settings_bindings.dart
+ª   ª   ª       
+ª   ª   +---controller
+ª   ª   ª       settings_controller.dart
+ª   ª   ª       
+ª   ª   +---view
+ª   ª           language_item.dart
+ª   ª           settings_view.dart
+ª   ª           
+ª   +---splash
+ª       +---bindings
+ª       ª       splash_bindings.dart
+ª       ª       
+ª       +---controllers
+ª       ª       splash_controller.dart
+ª       ª       
+ª       +---view
+ª               splash_view.dart
+ª               
++---routes
+ª       app_pages.dart
+ª       app_routes.dart
+ª       
++---screens
+ª       home_page.dart
+ª       
++---utils
+ª       dummy_data.dart
+ª       
++---widgets
+    +---auth
+            login_screen.dart
+            register_screen.dart
+            
