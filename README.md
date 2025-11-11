@@ -85,19 +85,29 @@
 <div align="center">
   <img src="docs/j.png" width="300"/>
   <p>Hình 1: UI đăng nhập</p>
+</div>
 
+<div align="center">
   <img src="docs/f.png" width="300"/>
   <p>Hình 2: UI đăng ký</p>
+</div>
 
+<div align="center">
   <img src="docs/a.png" width="300"/>
   <p>Hình 3: Trang chủ hiển thị các sản phẩm</p>
+</div>
 
+<div align="center">
   <img src="docs/k.png" width="300"/>
   <p>Hình 4: Trang hiển thị danh sách các sản phẩm yêu thích</p>
+</div>
 
+<div align="center">
   <img src="docs/i.png" width="300"/>
   <p>Hình 5: Trang hiển thị giỏ hàng</p>
+</div>
 
+<div align="center">
   <img src="docs/k.png" width="300"/>
   <p>Hình 6: Trang hiển thị </p>
 </div>
@@ -120,4 +130,32 @@
    ```bash
    git clone https://github.com/username/laptop_store_app.git
    cd laptop_store_app
+2. Cài đặt các gói phụ thuộc:
+   ```bash
+   flutter pub get
+3. Cấu hình Firebase (nếu có)
+- Thêm file google-services.json vào android/app
+- (Nếu dùng iOS) thêm GoogleService-Info.plist vào dự án iOS
+4. Chạy ứng dụng
+   ```bash
+   flutter run
 
+---
+### ▶️ Cách sử dụng
+🔹 Dành cho khách hàng
+- Mở ứng dụng
+- Đăng nhập hoặc tạo tài khoản mới
+- Duyệt danh mục sản phẩm
+- Thêm laptop vào giỏ hàng
+- Thanh toán và theo dõi đơn hàng
+
+---
+# 📞 5. Liên hệ
+- **Họ tên:** Lê Hải Đăng  
+- **Lớp:** CNTT 16-04  
+- **Email:** dangngoc1122004@gmail.com  
+- **Zalo:** 0377968152  
+---
+
+
+## © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
