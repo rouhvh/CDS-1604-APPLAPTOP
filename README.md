@@ -1,22 +1,23 @@
-# Laptop Store App
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+<h2 align="center">
+    ỨNG DỤNG ĐIỀU KHIỂN MÁY TÍNH TỪ XA (REMOTE CONTROL) 
+</h2>
+<div align="center">
+    <p align="center">
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
+        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
+    </p>
 
-A Simulation for an e-commerce app.
+[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
+[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)
+[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
 
-## Features
-
-* View the offers and the latest laptops available in the store.
-* View the laptop details.
-* Mark laptops as favorites and view them on the favorite screen.
-* Add laptops to the cart for purchase.
-* Support English and Arabic language
-
-## Dependencies
-
-* [get](https://pub.dev/packages/get)
-* [shared_preferences](https://pub.dev/packages/shared_preferences)
-* [carousel_slider](https://pub.dev/packages/carousel_slider)
-* [flutter_svg](https://pub.dev/packages/flutter_svg)
-* [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)
+</div>
 
 
 ## Video
